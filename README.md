@@ -3,6 +3,13 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=faris-07)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=faris-07&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+🧰 Toolbox
+
+<img src="https://cdn.worldvectorlogo.com/logos/javascript.svg" alt="JavaScript Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/css3.svg" alt="CSS Logo" width="50" height="50"/>
+
 <!--
 **Faris-07/Faris-07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
